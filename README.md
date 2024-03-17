@@ -9,4 +9,12 @@ In this game, you have 3 lives, whenever you fall in lava or get hit by a meteor
 Your score in this game increases for every coin you collect and for every few seconds you stay alive. One of the main objectives in this game is to stay alive for as long as possible
 
 ### Controls
+f- begin game
+space- jump/double-jump
+shift- dash: quickly moves forward 
+s- pound: dino quickly moves downwards until it hits a platform
 
+### Design Choices
+The dash function, double jump, and pound all provide extra mobility midair. This ensures that, with optimal play, you could always dodge both over and under the meteors no matter where they spawn. 
+
+This program was made by me and my groupmates at the UT Austin Game Design Course using the Phaser Physics Engine.
