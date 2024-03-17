@@ -9,9 +9,9 @@ In this game, you have 3 lives, whenever you fall in lava or get hit by a meteor
 Your score in this game increases for every coin you collect and for every few seconds you stay alive. One of the main objectives in this game is to stay alive for as long as possible
 
 ### Controls
-f- begin game \n
-space- jump/double-jump \n
-shift- dash: quickly moves forward  \n
+f- begin game <br>
+space- jump/double-jump <br>
+shift- dash: quickly moves forward  <br>
 s- pound: dino quickly moves downwards until it hits a platform \n
 
 ### Design Choices
