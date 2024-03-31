@@ -17,5 +17,5 @@ s- pound: dino quickly moves downwards until it hits a platform \n
 ### Design Choices
 The dash function, double jump, and pound all provide extra mobility midair. This ensures that, with optimal play, you could always dodge both over and under the meteors no matter where they spawn. 
 
-## Contributors
+
 This program was made by me and my groupmates at the UT Austin Game Design Course using the Phaser Physics Engine.
